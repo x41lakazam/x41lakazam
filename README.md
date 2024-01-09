@@ -10,12 +10,12 @@
 
 <!--About Me-->
 
-## Below is a quick index of my public repositories, the most interesting ones are private, unfortunately :(
+## Below is a quick index of my public repositories, the most interesting ones are private, unfortunately..
 
 <picture> <img align="right" src="https://media1.tenor.com/m/vuJ4ABnFW8oAAAAC/pokemon-spoon.gif" width = 300px></picture>
 
-- [mergeconfigs](https://github.com/x41lakazam/mergeconfigs). A tool to help big teams manage their configuration files across different namespaces.
-- [3D engine with a cow walking in a land](https://github.com/x41lakazam/3D-cow-in-a-land), my computer graphics course project.
+- [Mergeconfigs](https://github.com/x41lakazam/mergeconfigs). A tool to help big teams manage their configuration files across different namespaces.
+- [A 3D engine where a cow walk in a land](https://github.com/x41lakazam/3D-cow-in-a-land), my computer graphics course project.
 - [A blender simulation of natural evolution](https://github.com/x41lakazam/natural_selection), a copy of [Primer's awesome youtube video](https://www.youtube.com/watch?v=0ZGbIKd0XrM&t=395s&pp=ygUQcHJpbWVyIGV2b2x1dGlvbg%3D%3D).
 - [An AI that learns how to control a flappy bird](https://github.com/x41lakazam/flappy-bird-AI)
 - [A front-end compiler for the CPL language](https://github.com/x41lakazam/cpl_front_end_compiler).
