@@ -10,7 +10,7 @@
 
 <!--About Me-->
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> My public projects, the most interesting one are private repos, unfortunately :(
+## Below is a quick index of my public repositories, the most interesting ones are private, unfortunately :(
 
 <picture> <img align="right" src="https://media1.tenor.com/m/vuJ4ABnFW8oAAAAC/pokemon-spoon.gif" width = 300px></picture>
 
